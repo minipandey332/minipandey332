@@ -134,7 +134,7 @@ Building scalable enterprise applications using ASP.NET Core, Angular, SQL Serve
 
 <p align="left">
 
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/mini-pandey-b82016185)">
+<a href="https://www.linkedin.com/in/mini-pandey-b82016185">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -142,7 +142,7 @@ Building scalable enterprise applications using ASP.NET Core, Angular, SQL Serve
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="[YOUR_PORTFOLIO_URL](https://my-portfolio-delta-ten-84.vercel.app/)">
+<a href="https://my-portfolio-delta-ten-84.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome"/>
 </a>
 
