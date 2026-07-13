@@ -11,7 +11,9 @@ Building scalable enterprise applications using ASP.NET Core, Angular, SQL Serve
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=minipandey332&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="https://github.com/minipandey332">
+    <img src="https://komarev.com/ghpvc/?username=minipandey332&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
 </p>
 
 ---
