@@ -7,34 +7,33 @@ Building scalable enterprise applications using ASP.NET Core, Angular, SQL Serve
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=.NET+Full+Stack+Developer;Technical+Support+Engineer;Azure+Certified;Always+Learning+New+Technologies;Passionate+About+Clean+Code" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=.NET+Full+Stack+Developer;Code+Enthusiastic;Azure+Certified;Always+Learning+New+Technologies;Passionate+About+Clean+Code" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=minipandey332&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-- 💼 4+ years of experience in Software Development & Production Support
-- 🔭 Currently working on enterprise-grade web applications
-- 🌱 Learning Microservices, Azure, Docker & Kubernetes
-- 💡 Passionate about Clean Code, Design Patterns & System Design
-- ⚡ Strong experience in Production Support (L1/L2), SQL Server, APIs and Web Applications
-- 🎯 Goal: Become a Senior Software Engineer
+- 💼 4 years of experience in Software Development.
+- 🌱  My tech stack revolves around Dot Net, C#, C++, Angular, Azure, Microservices and MySQL.
+- 💡 Passionate about Clean Code, Design Patterns & System Design(HLD + LLD), Data Structures, and core Computer Concepts.
+- ⚡ Strong experience in web app development, APIs Creation, Handling bulk volumne of citizen's sensitive data, query tuning and optimization.
+- 🔭 Self-driven and passionate coder with a love for solving problems and writing efficient code.
+- 🤝 Always up to collaborate on Open-Source Projects and contribute to the community.
 
 ---
 
 # 🚀 Tech Stack
 
-## Programming Languages
+## 💻 Programming Languages
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -83,6 +82,7 @@ Building scalable enterprise applications using ASP.NET Core, Angular, SQL Serve
 - VS Code
 - SQL Server Management Studio
 - Postman
+- Hangfire
 - Azure Portal
 - IIS
 - GitHub
@@ -90,47 +90,13 @@ Building scalable enterprise applications using ASP.NET Core, Angular, SQL Serve
 
 ---
 
-# 📌 Featured Projects
-
-## 💳 Digital Wallet
-
-A secure Digital Wallet application developed using ASP.NET Core Web API and Angular.
-
-**Tech Stack**
-
-- ASP.NET Core
-- Angular
-- SQL Server
-- JWT Authentication
-
----
-
-## 📈 HotSpot SEO
-
-An AI-powered SEO optimization platform helping users improve search rankings.
-
-**Tech Stack**
-
-- Python
-- Django
-- LangChain
-- OpenAI
-
----
-
-## ⏰ Reminder Application
-
-Desktop Reminder Application developed in Java.
-
----
-
 # 🏆 Certifications
 
 - ✅ Microsoft Azure AZ-900
 - ✅ Microsoft Azure AZ-204
-- ✅ Microsoft Azure AI-900
+- ✅ Microsoft Azure Artificial Intelligence-900
 - ✅ ISTQB Certified
-- ✅ .NET Full Stack Development
+- ✅ .NET Full Stack Developer Certified By Wipro Velocity
 
 ---
 
@@ -138,15 +104,15 @@ Desktop Reminder Application developed in Java.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=minipandey332&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minipandey332&layout=compact&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=minipandey332&theme=tokyonight"/>
 
 </p>
 
@@ -154,24 +120,13 @@ Desktop Reminder Application developed in Java.
 
 # 📈 Contribution Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minipandey332&theme=github-compact)](https://github.com/minipandey332)
 
 ---
 
 # 🏅 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-# 🌱 Currently Learning
-
-- Microservices
-- Azure DevOps
-- Docker
-- Kubernetes
-- System Design
-- Design Patterns
+[![trophy](https://github-profile-trophy.vercel.app/?username=minipandey332&theme=algolia&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -179,15 +134,15 @@ Desktop Reminder Application developed in Java.
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/mini-pandey-b82016185)">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:minipandey332@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="[YOUR_PORTFOLIO_URL](https://my-portfolio-delta-ten-84.vercel.app/)">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome"/>
 </a>
 
@@ -202,17 +157,4 @@ Desktop Reminder Application developed in Java.
 ---
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
-<!--
-**minipandey332/minipandey332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
